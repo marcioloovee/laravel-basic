@@ -1,3 +1,9 @@
+Clonando aplicação
+- git clone https://github.com/marcioloovee/gazintest.git
+
+Entre no diretorio
+- cd gazintest
+
 Compilando a aplicação no Docker
 - docker-compose build app
 
